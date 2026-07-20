@@ -1,0 +1,331 @@
+[
+  {
+    "id": "arrest-unlawful-detention",
+    "topic": "Illegal Detention / Arrest Rights",
+    "keywords": ["arrest", "detain", "detained", "detention", "police custody", "lockup", "illegal arrest",
+                 "unlawful detention", "no fir", "not told reason", "handcuff", "police station", "wrongful confinement"],
+    "laws": [
+      {
+        "act": "Constitution of India",
+        "section": "Article 22(1) & 22(2)",
+        "summary": "Every arrested person must be told the grounds of arrest as soon as possible, has the right to consult and be defended by a lawyer of their choice, and must be produced before the nearest magistrate within 24 hours of arrest (excluding travel time)."
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)",
+        "section": "Section 47",
+        "summary": "Police must inform the arrested person of the grounds of arrest and their right to bail (for bailable offences), and must also inform a friend/relative of the arrest and place of detention."
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)",
+        "section": "Section 58",
+        "summary": "Requires police to maintain and display, at every police station, a list of names and addresses of persons currently under arrest, and the grounds for arrest."
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)",
+        "section": "Section 35",
+        "summary": "Sets limits on arrest without warrant; for offences punishable with less than 3 years imprisonment, arrest generally requires a notice of appearance first, subject to conditions."
+      },
+      {
+        "act": "Supreme Court Guidelines",
+        "section": "D.K. Basu v. State of West Bengal (1997)",
+        "summary": "Laid down mandatory safeguards for arrest and detention: memo of arrest attested by a witness, right to inform a relative/friend, medical examination every 48 hours, and the arrestee's right to meet their lawyer during interrogation."
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)",
+        "section": "Section 127",
+        "summary": "Wrongful confinement/restraint by anyone, including a public servant acting outside legal authority, is a punishable offence."
+      }
+    ],
+    "steps": [
+      "Note the exact time, place, and names/badge numbers of the officers involved, if possible.",
+      "Ask explicitly for the written grounds of arrest and the arrest memo (must be signed by a witness).",
+      "Insist that a relative or friend be informed of your arrest and location, as required under BNSS Section 47.",
+      "You must be produced before a magistrate within 24 hours (excluding travel time) — track this.",
+      "If these steps were not followed, you can file a written complaint with the Superintendent of Police (SP) or approach the State/District Legal Services Authority for free legal aid.",
+      "You may also file a habeas corpus petition in the High Court if detention continues without being produced before a magistrate.",
+      "Consider filing a complaint with the State Human Rights Commission for procedural violations.",
+      "Consult a criminal lawyer promptly; NALSA (nalsa.gov.in) provides free legal aid for those who qualify."
+    ]
+  },
+  {
+    "id": "fir-registration",
+    "topic": "FIR Registration Refusal / Delay",
+    "keywords": ["fir", "police refuse", "not registering", "complaint not taken", "station house officer",
+                 "refuse to file", "zero fir", "first information report"],
+    "laws": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)",
+        "section": "Section 173",
+        "summary": "Police are legally required to register an FIR for any information disclosing a cognizable offence; for certain offences, a preliminary inquiry within 14 days may precede registration in limited circumstances."
+      },
+      {
+        "act": "Supreme Court Guidelines",
+        "section": "Lalita Kumari v. Govt. of U.P. (2014)",
+        "summary": "Held that registration of an FIR is mandatory when information discloses a cognizable offence; refusal to register is not permitted merely because facts are disputed."
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)",
+        "section": "Section 175",
+        "summary": "If police refuse to register an FIR, the complainant can send the complaint in writing to the Superintendent of Police, who must investigate or direct an officer to do so."
+      }
+    ],
+    "steps": [
+      "Request the FIR in writing and ask for the copy along with the FIR number.",
+      "If refused, send a written complaint by post/email to the Superintendent of Police (SP) under BNSS Section 175.",
+      "You can also approach the Judicial Magistrate directly under BNSS Section 175(4) to direct police to register the FIR.",
+      "For crimes committed in one place but reported elsewhere, ask for a 'Zero FIR', which must be registered and later transferred to the appropriate police station.",
+      "File a complaint with the State Human Rights Commission or approach the High Court via writ petition if there is continued refusal.",
+      "Keep all written correspondence, screenshots, or acknowledgment receipts as evidence of your attempt to file."
+    ]
+  },
+  {
+    "id": "dowry-harassment",
+    "topic": "Dowry Harassment / Domestic Cruelty",
+    "keywords": ["dowry", "domestic violence", "cruelty", "in-laws harassment", "husband harassment", "498a",
+                 "domestic abuse", "marital cruelty", "stridhan"],
+    "laws": [
+      {
+        "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)",
+        "section": "Section 85 & 86",
+        "summary": "Corresponds to the earlier IPC Section 498A — cruelty by husband or his relatives towards a woman is punishable with imprisonment up to 3 years and fine; cruelty includes harassment for dowry."
+      },
+      {
+        "act": "Dowry Prohibition Act, 1961",
+        "section": "Section 3 & 4",
+        "summary": "Giving, taking, or demanding dowry is a punishable offence, with imprisonment and fine for both giving and demanding dowry."
+      },
+      {
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 12 & 18",
+        "summary": "Allows a woman to seek protection orders, residence orders, and monetary relief from a Magistrate against domestic violence, including dowry-related harassment."
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)",
+        "section": "Section 80",
+        "summary": "Corresponds to former IPC 304B — dowry death; if a woman dies within 7 years of marriage under suspicious circumstances linked to dowry harassment, it is presumed to be dowry death unless proven otherwise."
+      }
+    ],
+    "steps": [
+      "Document incidents with dates, messages, witnesses, and medical records if injured.",
+      "File a complaint at the nearest police station or the Women's Helpline (181) / National Commission for Women.",
+      "You can approach a Protection Officer under the Domestic Violence Act, 2005 for immediate protection and residence orders.",
+      "File an application before a Magistrate for protection, monetary relief, or residence orders under the DV Act.",
+      "Approach the Family Court or file for maintenance if separated.",
+      "Contact NALSA or your District Legal Services Authority for free legal representation.",
+      "Note: false 498A/dowry complaints are also punishable, so ensure your complaint reflects facts accurately."
+    ]
+  },
+  {
+    "id": "cheque-bounce",
+    "topic": "Cheque Bounce / Dishonour",
+    "keywords": ["cheque bounce", "cheque dishonour", "cheque return", "insufficient funds", "ni act", "138"],
+    "laws": [
+      {
+        "act": "Negotiable Instruments Act, 1881",
+        "section": "Section 138",
+        "summary": "Dishonour of a cheque due to insufficient funds is a criminal offence, punishable with imprisonment up to 2 years and/or fine up to twice the cheque amount."
+      },
+      {
+        "act": "Negotiable Instruments Act, 1881",
+        "section": "Section 138 Proviso",
+        "summary": "The payee must send a written demand notice to the drawer within 30 days of receiving the bank's dishonour memo, demanding payment within 15 days of notice receipt, before filing a criminal complaint."
+      },
+      {
+        "act": "Negotiable Instruments Act, 1881",
+        "section": "Section 142",
+        "summary": "A complaint must be filed within 1 month of the cause of action arising (i.e., after the 15-day notice period lapses without payment), before a Magistrate."
+      }
+    ],
+    "steps": [
+      "Obtain the cheque return memo from your bank stating the reason for dishonour.",
+      "Send a written legal demand notice to the drawer within 30 days of the dishonour memo, demanding payment within 15 days.",
+      "If payment is not made within 15 days of notice receipt, file a criminal complaint under Section 138 within 1 month before the Judicial Magistrate having jurisdiction.",
+      "You may also pursue a civil recovery suit for the amount owed, separately or in parallel.",
+      "Consult a lawyer to draft the demand notice and complaint correctly, as procedural timelines are strictly enforced."
+    ]
+  },
+  {
+    "id": "consumer-rights",
+    "topic": "Consumer Rights / Defective Product or Service",
+    "keywords": ["consumer complaint", "defective product", "refund refused", "service deficiency", "warranty",
+                 "consumer forum", "e-commerce fraud", "faulty product", "unfair trade practice"],
+    "laws": [
+      {
+        "act": "Consumer Protection Act, 2019",
+        "section": "Section 2(9)",
+        "summary": "Defines consumer rights including the right to safety, right to information, right to be heard, and right to seek redressal against unfair trade practices."
+      },
+      {
+        "act": "Consumer Protection Act, 2019",
+        "section": "Section 35",
+        "summary": "Allows a consumer to file a complaint before the District Consumer Disputes Redressal Commission for claims up to ₹50 lakh (limits are periodically revised)."
+      },
+      {
+        "act": "Consumer Protection Act, 2019",
+        "section": "Section 94-95",
+        "summary": "Established the Central Consumer Protection Authority (CCPA) to investigate and act against unfair trade practices and misleading advertisements."
+      }
+    ],
+    "steps": [
+      "First send a written complaint to the seller/service provider and preserve all communication, bills, and warranty documents.",
+      "File a complaint on the National Consumer Helpline (1915 or consumerhelpline.gov.in) or the INGRAM portal.",
+      "If unresolved, file a formal complaint before the District Consumer Disputes Redressal Commission (for claims up to ₹50 lakh) — this can now be done online via e-daakhil.nic.in.",
+      "For e-commerce or unfair trade practice issues, you can also complain to the Central Consumer Protection Authority (CCPA).",
+      "Consumer cases generally do not require a lawyer and are designed to be filed by individuals directly."
+    ]
+  },
+  {
+    "id": "domestic-violence-general",
+    "topic": "Domestic Violence (Physical, Emotional, Economic Abuse)",
+    "keywords": ["domestic violence", "husband beats", "wife abuse", "family abuse", "economic abuse",
+                 "emotional abuse", "protection order", "residence order", "shared household", "abusive partner"],
+    "laws": [
+      {
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 3",
+        "summary": "Defines domestic violence broadly to include physical, sexual, verbal, emotional, and economic abuse by a person in a domestic relationship."
+      },
+      {
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 17",
+        "summary": "Gives a woman the right to reside in the shared household regardless of ownership title, even if she has no legal right/title in the property."
+      },
+      {
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 18-20",
+        "summary": "A Magistrate can pass protection orders (stopping further abuse), residence orders, and monetary relief orders (for medical expenses, loss of earnings, maintenance)."
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)",
+        "section": "Section 85 & 86",
+        "summary": "Cruelty by a husband or his relatives is a separate criminal offence carrying imprisonment up to 3 years, alongside the civil remedies under the DV Act."
+      }
+    ],
+    "steps": [
+      "Reach out to a Protection Officer (appointed under the DV Act in every district) or a registered service provider/NGO for immediate support.",
+      "You can approach the Magistrate directly (via a Domestic Incident Report) for a protection order, residence order, and monetary relief — a lawyer is not mandatory to file.",
+      "Call the Women's Helpline (181) for 24x7 support and emergency assistance.",
+      "File a police complaint separately if there is physical assault, under BNS provisions on hurt/cruelty.",
+      "Document incidents: dates, injuries (get medical examination), messages, witnesses.",
+      "Contact NALSA or your District Legal Services Authority for free legal aid if you cannot afford a lawyer."
+    ]
+  },
+  {
+    "id": "cybercrime-it-act",
+    "topic": "Cybercrime / Online Fraud (IT Act)",
+    "keywords": ["online fraud", "upi fraud", "hacked", "cybercrime", "phishing", "otp fraud", "identity theft",
+                 "online harassment", "cyberbullying", "fake profile", "morphed photo", "data leak", "sextortion"],
+    "laws": [
+      {
+        "act": "Information Technology Act, 2000",
+        "section": "Section 43",
+        "summary": "Unauthorized access to a computer system, downloading data, or introducing viruses makes the offender liable to pay compensation to the affected person."
+      },
+      {
+        "act": "Information Technology Act, 2000",
+        "section": "Section 66",
+        "summary": "Computer-related offences (hacking, unauthorized access causing wrongful loss) are punishable with imprisonment up to 3 years and/or fine up to ₹5 lakh."
+      },
+      {
+        "act": "Information Technology Act, 2000",
+        "section": "Section 66C",
+        "summary": "Identity theft — fraudulent use of another person's electronic signature, password, or unique identification (e.g. stolen UPI/bank credentials) is punishable with imprisonment up to 3 years and fine up to ₹1 lakh."
+      },
+      {
+        "act": "Information Technology Act, 2000",
+        "section": "Section 66E",
+        "summary": "Capturing, publishing, or transmitting images of a person's private area without consent violates privacy and is punishable with imprisonment up to 3 years."
+      },
+      {
+        "act": "Information Technology Act, 2000",
+        "section": "Section 67",
+        "summary": "Publishing or transmitting obscene material in electronic form is punishable, with enhanced punishment for repeat offences."
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)",
+        "section": "Section 318",
+        "summary": "Cheating (including online/digital cheating such as fake UPI requests or fraudulent transactions) is punishable, with enhanced punishment if it involves impersonation or is committed via electronic means."
+      }
+    ],
+    "steps": [
+      "Report immediately on the National Cyber Crime Reporting Portal: cybercrime.gov.in, or call the Cyber Crime Helpline 1930 (especially urgent for financial fraud — faster reporting increases chances of freezing the transaction).",
+      "For financial fraud (UPI/bank), also inform your bank immediately to block further transactions and dispute the charge.",
+      "Preserve all evidence: screenshots, transaction IDs, messages, caller/sender details — do not delete anything.",
+      "File a police complaint/FIR at your local station or the nearest cyber cell if the online portal doesn't resolve it.",
+      "For harassment, morphed images, or sextortion, cybercrime.gov.in has a dedicated women/child-specific reporting section with faster response.",
+      "Consult a cyber law-focused advocate for serious financial loss or reputational harm cases."
+    ]
+  },
+  {
+    "id": "motor-vehicles-accident",
+    "topic": "Traffic Violations / Road Accidents (Motor Vehicles Act)",
+    "keywords": ["road accident", "traffic challan", "hit and run", "driving license suspended", "insurance claim vehicle",
+                 "motor accident", "compensation accident", "rash driving", "drunk driving", "vehicle accident"],
+    "laws": [
+      {
+        "act": "Motor Vehicles Act, 1988 (as amended 2019)",
+        "section": "Section 166",
+        "summary": "Allows a victim (or their legal heirs, in case of death) of a motor vehicle accident to file a claim for compensation before the Motor Accident Claims Tribunal (MACT)."
+      },
+      {
+        "act": "Motor Vehicles Act, 1988 (as amended 2019)",
+        "section": "Section 134",
+        "summary": "Places a duty on the driver involved in an accident to stop, provide help/medical assistance if requested, and report the accident to police within 24 hours."
+      },
+      {
+        "act": "Motor Vehicles Act, 1988 (as amended 2019)",
+        "section": "Section 161",
+        "summary": "Provides for compensation on a 'no fault' basis (interim relief) for hit-and-run accidents through the Solatium Fund, even before fault is established."
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)",
+        "section": "Section 106",
+        "summary": "Causing death by rash or negligent driving (culpable homicide not amounting to murder) carries criminal liability, with enhanced punishment for hit-and-run cases where the driver flees without reporting."
+      }
+    ],
+    "steps": [
+      "At the accident scene: call for medical help first (108 ambulance), then inform the police (100/112) to register an FIR/accident report — this is essential for any compensation claim.",
+      "Take photos of the scene, vehicle damage, and note witness contact details if possible.",
+      "Get a Medico-Legal Certificate (MLC) if injured, and preserve all medical bills.",
+      "For compensation, file a claim before the Motor Accident Claims Tribunal (MACT) under Section 166 — you do not need to prove the other driver was necessarily convicted criminally to claim compensation.",
+      "For hit-and-run cases where the driver is unidentified, apply for compensation from the Solatium Fund via the police/District Collector's office.",
+      "Inform your own insurer promptly to preserve any own-damage or personal accident cover claims.",
+      "Consult a motor accident claims lawyer — many take such cases on a contingency basis."
+    ]
+  },
+  {
+    "id": "rti-application",
+    "topic": "Right to Information (RTI) — Government Not Responding / Denying Information",
+    "keywords": ["rti", "right to information", "government not responding", "public information officer",
+                 "rti rejected", "rti appeal", "information commission"],
+    "laws": [
+      {
+        "act": "Right to Information Act, 2005",
+        "section": "Section 6",
+        "summary": "Any citizen can request information from a public authority by submitting a written application (with prescribed fee) to the Public Information Officer (PIO)."
+      },
+      {
+        "act": "Right to Information Act, 2005",
+        "section": "Section 7",
+        "summary": "The PIO must respond within 30 days of the request (48 hours if the matter concerns life or liberty); failure to respond in time is treated as a deemed refusal."
+      },
+      {
+        "act": "Right to Information Act, 2005",
+        "section": "Section 19",
+        "summary": "If information is denied or not provided in time, the applicant can file a first appeal with the departmental Appellate Authority within 30 days, and a second appeal with the State/Central Information Commission if still unresolved."
+      },
+      {
+        "act": "Right to Information Act, 2005",
+        "section": "Section 20",
+        "summary": "The Information Commission can penalize a PIO up to ₹250/day (max ₹25,000) for unreasonable delay, refusal, or providing incorrect/incomplete information without justification."
+      }
+    ],
+    "steps": [
+      "File your RTI application in writing to the Public Information Officer of the relevant department, along with the prescribed fee (usually ₹10, waived for BPL applicants).",
+      "If no response within 30 days, or if you're unhappy with the response, file a First Appeal with the Appellate Authority of that department within 30 days.",
+      "If still unresolved, file a Second Appeal with the State or Central Information Commission (as applicable) — this can also address penalty for delay under Section 20.",
+      "RTI applications can now be filed online for central government departments via rtionline.gov.in; check for a state-specific portal for state departments.",
+      "Keep proof of submission (receipt/acknowledgment, tracking number, or postal proof) at every stage."
+    ]
+  }
+]

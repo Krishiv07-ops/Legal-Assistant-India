@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vidhi Sahayak — Indian Legal Rights Assistant</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="seal" aria-hidden="true">
+      <svg viewBox="0 0 100 100" width="52" height="52">
+        <circle cx="50" cy="50" r="46" fill="none" stroke="currentColor" stroke-width="2"/>
+        <circle cx="50" cy="50" r="38" fill="none" stroke="currentColor" stroke-width="1"/>
+        <text x="50" y="57" text-anchor="middle" font-family="'Source Serif 4', serif" font-size="30" fill="currentColor">वि</text>
+      </svg>
+    </div>
+    <div class="masthead-text">
+      <h1>Vidhi Sahayak</h1>
+      <p class="tagline">विधि सहायक — a plain-language guide to your rights under Indian law</p>
+    </div>
+  </div>
+  <div class="masthead-rule"></div>
+</header>
+
+<main class="container">
+
+  <section class="intro">
+    <p class="eyebrow">Case Register No. 001 &nbsp;·&nbsp; Est. 2026</p>
+    <h2>Describe what happened. Get the sections that apply, and what to do next.</h2>
+    <p class="intro-copy">
+      Covers arrest &amp; detention, FIR registration, dowry &amp; domestic cruelty, cheque dishonour,
+      and consumer disputes — grounded in the Bharatiya Nyaya Sanhita, BNSS, and the Constitution.
+    </p>
+  </section>
+
+  <section class="query-card">
+    <label for="query-input">Your situation</label>
+    <textarea id="query-input" rows="4" placeholder="e.g. The police detained me for six hours and never told me why, or showed a warrant."></textarea>
+    <div class="query-actions">
+      <button id="ask-btn" type="button">Find my rights</button>
+      <span id="status-text" class="status-text" aria-live="polite"></span>
+    </div>
+  </section>
+
+  <section id="result-section" class="result-section" hidden>
+    <div class="result-header">
+      <span class="file-tab">Findings</span>
+    </div>
+    <div id="result-content" class="result-content"></div>
+  </section>
+
+  <section class="examples">
+    <p class="examples-label">Or try one of these —</p>
+    <div class="chip-row">
+      <button class="chip" data-example="Police detained me for hours without telling me any reason or showing a warrant.">Unlawful detention</button>
+      <button class="chip" data-example="The police station refused to register my FIR even though I explained the crime clearly.">FIR refused</button>
+      <button class="chip" data-example="My in-laws keep harassing me and demanding more dowry after marriage.">Dowry harassment</button>
+      <button class="chip" data-example="Someone gave me a cheque for a payment and it bounced due to insufficient funds.">Cheque bounced</button>
+      <button class="chip" data-example="I bought a phone online and it arrived defective, the seller refuses a refund.">Defective product</button>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p><strong>This is general legal information, not legal advice.</strong> For a specific case, contact
+  <a href="https://nalsa.gov.in" target="_blank" rel="noopener">NALSA</a> for free legal aid, or consult a licensed advocate.</p>
+</footer>
+
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
